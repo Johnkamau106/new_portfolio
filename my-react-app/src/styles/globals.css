@@ -1,0 +1,10 @@
+body {
+  margin: 0;
+  font-family: 'Inter', Arial, sans-serif;
+  background: #0f172a;
+  color: #fff;
+  scroll-behavior: smooth;
+}
+a { color: #0ea5e9; text-decoration: none; }
+section { padding: 4rem 1rem; }
+h1, h2, h3 { font-weight: 700; }
